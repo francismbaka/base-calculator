@@ -4,7 +4,7 @@ def base_calculator():
     try:
         # Input first number and its base
         val1_raw = input("Enter first number: ")
-        base1 = int(input("Enter base of first number (2, 8, 10, 16): "))bft
+        base1 = int(input("Enter base of first number (2, 8, 10, 16): "))
         
         # Input second number and its base
         val2_raw = input("Enter second number: ")
